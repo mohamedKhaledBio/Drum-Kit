@@ -8,10 +8,5 @@ Click [here](https://mohamedKhaledBio.github.io/Drum-Kit/.) to go to the website
 - Css3
 - JS
 
-## get the code from the repository
-```
-git clone https://github.com/sagnikghoshcr7/Drum-Kit.git
-```
-
 ## Screenshots
 ![](https://github.com/sagnikghoshcr7/images/blob/master/Drum%20Kit.png)
